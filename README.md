@@ -5,7 +5,7 @@ A retro duck-hunting game for the ESP32 Cheap Yellow Display (CYD). Tap the touc
 ## Links
 
 - 🎥 Video: [Duck Hunt on YouTube Shorts](https://youtube.com/shorts/ZBqUziBsLYI)
-- 🛒 ESP32 CYD display used in this project: [Temu item link](https://temu.to/k/eca8k34yurh)
+- 🛒 ESP32 CYD display used in this project: [Temu item link](https://temu.to/k/ea65oy4oun8)
 
 The Temu link may be an affiliate link; it does not change the price for you.
 
